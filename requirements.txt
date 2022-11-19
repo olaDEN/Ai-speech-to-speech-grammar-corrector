@@ -1,0 +1,8 @@
+streamlit
+speech_recognition
+gtts
+language_tool_python  
+io
+pygame
+time 
+
